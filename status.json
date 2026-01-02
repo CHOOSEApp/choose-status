@@ -1,0 +1,23 @@
+{
+    "isServerOnline": true,
+    "allowLogin": true,
+    "allowRegistration": true,
+    "allowLoginAndRegisterByMail": true,
+    "allowLoginAndRegisterByPhone": false,
+    "allowLoginAndRegisterByAppleID": false,
+    "needUpdateAppVersion": false,
+    "welcomeScreenMessage": "",
+    "meScreenMessage": null,
+    "openFeedbackChannel": false,
+    "systemMessagesForNewRegisteredUser": [
+        "Test message in development will update Later"
+    ],
+    "systemMessagesForLoginUser": [
+        {
+            "id": "7E9777B3-1FFD-468B-899F-20ECDA72F14A",
+            "messageType": "text",
+            "message": "There is no system message right now.",
+            "question": null
+        }
+    ]
+}
