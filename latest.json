@@ -16,8 +16,16 @@
         {
             "id": "7E9777B3-1FFD-468B-899F-20ECDA72F14A",
             "messageType": "text",
-            "message": "There is no system message right now.",
+            "message": "Hope you have a great day!",
             "question": null
         }
-    ]
+    ],
+    "apiBaseURL": "https://apiv1.chooseapp.net/",
+    "privacyPolicyURL": "https://chooseapp.net/privacy/PRIVACY_POLICY.md",
+    "termsOfServiceURL": "https://chooseapp.net/terms/TERMS_OF_SERVICE.md",
+    "faqURL": "https://chooseapp.net/faq/FAQ.json",
+    "appStoreURL": null,
+    "cdnBaseURL": "https://s3.chooseapp.net/",
+    "recommendedBuildVersion": null,
+    "minimumRequiredBuildVersion": null
 }
