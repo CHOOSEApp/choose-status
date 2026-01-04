@@ -10,7 +10,7 @@
     "meScreenMessage": null,
     "openFeedbackChannel": false,
     "systemMessagesForNewRegisteredUser": [
-        "Test message in development will update Later"
+        "Thanks for using CHOOSE! We just launched a few days ago, so we don't have enough users yet. Most people in your match pool are test users. You can request to remove them, but before you do, we hope you understand how to use CHOOSE. When we have enough real users, all test users will be removed automatically."
     ],
     "systemMessagesForLoginUser": [
         {
