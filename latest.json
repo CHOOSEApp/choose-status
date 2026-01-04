@@ -23,7 +23,7 @@
     "apiBaseURL": "https://apiv1.chooseapp.net/",
     "privacyPolicyURL": "https://chooseapp.net/privacy/PRIVACY_POLICY.md",
     "termsOfServiceURL": "https://chooseapp.net/terms/TERMS_OF_SERVICE.md",
-    "faqURL": "https://chooseapp.net/faq/FAQ.json",
+    "faqURL": null,
     "appStoreURL": null,
     "cdnBaseURL": "https://s3.chooseapp.net/",
     "recommendedBuildVersion": null,
