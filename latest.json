@@ -1,5 +1,5 @@
 {
-    "isServerOnline": false,
+    "isServerOnline": true,
     "allowLogin": true,
     "allowRegistration": true,
     "allowLoginAndRegisterByMail": true,
