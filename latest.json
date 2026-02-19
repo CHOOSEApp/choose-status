@@ -6,7 +6,7 @@
     "allowLoginAndRegisterByPhone": false,
     "allowLoginAndRegisterByAppleID": false,
     "needUpdateAppVersion": false,
-    "welcomeScreenMessage": "Server is under maintenance, please wait patiently. We will be back soon.",
+    "welcomeScreenMessage": null,
     "meScreenMessage": null,
     "openFeedbackChannel": false,
     "systemMessagesForNewRegisteredUser": [
