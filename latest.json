@@ -10,13 +10,13 @@
     "meScreenMessage": null,
     "openFeedbackChannel": false,
     "systemMessagesForNewRegisteredUser": [
-        "Thanks for using CHOOSE! We just launched a few days ago, so we don't have enough real users yet. Most people in your match pool are test users. You can request to remove them, but before you do, we hope you understand how to use CHOOSE. When we have enough real users, all test users will be removed automatically."
+        "Thanks for using CHOOSE! We just launched, so most users in your match pool are currently test users. They'll be removed automatically once we have enough real users."
     ],
     "systemMessagesForLoginUser": [
         {
-            "id": "7E9777B3-1FFD-468B-899F-20ECDA72F14A",
+            "id": "CBDFEFDD-272E-4C13-B046-50A439E6695D",
             "messageType": "text",
-            "message": "Hope you have a great day!",
+            "message": "Your Match Number grows as new users join. Help everyone find the right one—share CHOOSE with your friends!",
             "question": null
         }
     ],
