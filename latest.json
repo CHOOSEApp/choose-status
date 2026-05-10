@@ -27,5 +27,6 @@
     "appStoreURL": "https://apps.apple.com/us/app/choose-choose-the-right-one/id6757355594",
     "cdnBaseURL": "https://s3.chooseapp.net/",
     "recommendedBuildVersion": null,
-    "minimumRequiredBuildVersion": null
+    "minimumRequiredBuildVersion": null,
+    "dataExportMode": "sync"
 }
