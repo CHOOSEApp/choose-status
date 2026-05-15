@@ -4,7 +4,7 @@
     "allowRegistration": true,
     "allowLoginAndRegisterByMail": true,
     "allowLoginAndRegisterByPhone": false,
-    "allowLoginAndRegisterByAppleID": false,
+    "allowLoginAndRegisterByAppleID": true,
     "needUpdateAppVersion": false,
     "welcomeScreenMessage": null,
     "meScreenMessage": null,
