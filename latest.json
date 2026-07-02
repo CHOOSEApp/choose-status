@@ -28,5 +28,10 @@
     "cdnBaseURL": "https://s3.chooseapp.net/",
     "recommendedBuildVersion": null,
     "minimumRequiredBuildVersion": null,
-    "dataExportMode": "sync"
+    "dataExportMode": "sync",
+    "testFlightLink" : null,
+    "socialXLink": "https://twitter.com/CHOOSEAppAdam",
+    "socialBlueSkyLink": "https://bsky.app/profile/adamambassador.bsky.social",
+    "socialYoutubeLink": "https://www.youtube.com/@CHOOSEmatters",
+    "socialTikTokLink": "https://tiktok.com/@choose.app.adam"
 }
